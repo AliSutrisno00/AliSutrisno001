@@ -1,0 +1,20 @@
+{
+  "name": "AliSutrisno001",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "AliSutrisno00",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/AliSutrisno00/AliSutrisno001.git"
+  }
+}
